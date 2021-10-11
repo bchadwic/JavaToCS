@@ -1,0 +1,13 @@
+C:\Users\Ben\source\repos\JavaToCS\bin\Debug\netcoreapp3.1\JavaToCS.exe
+C:\Users\Ben\source\repos\JavaToCS\bin\Debug\netcoreapp3.1\JavaToCS.deps.json
+C:\Users\Ben\source\repos\JavaToCS\bin\Debug\netcoreapp3.1\JavaToCS.runtimeconfig.json
+C:\Users\Ben\source\repos\JavaToCS\bin\Debug\netcoreapp3.1\JavaToCS.runtimeconfig.dev.json
+C:\Users\Ben\source\repos\JavaToCS\bin\Debug\netcoreapp3.1\JavaToCS.dll
+C:\Users\Ben\source\repos\JavaToCS\bin\Debug\netcoreapp3.1\JavaToCS.pdb
+C:\Users\Ben\source\repos\JavaToCS\obj\Debug\netcoreapp3.1\JavaToCS.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\JavaToCS\obj\Debug\netcoreapp3.1\JavaToCS.AssemblyInfoInputs.cache
+C:\Users\Ben\source\repos\JavaToCS\obj\Debug\netcoreapp3.1\JavaToCS.AssemblyInfo.cs
+C:\Users\Ben\source\repos\JavaToCS\obj\Debug\netcoreapp3.1\JavaToCS.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\JavaToCS\obj\Debug\netcoreapp3.1\JavaToCS.dll
+C:\Users\Ben\source\repos\JavaToCS\obj\Debug\netcoreapp3.1\JavaToCS.pdb
+C:\Users\Ben\source\repos\JavaToCS\obj\Debug\netcoreapp3.1\JavaToCS.genruntimeconfig.cache
